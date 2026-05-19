@@ -10,6 +10,8 @@ Small, incremental commits used to tell a believable MVP build story.
 
 - Define MVP concept: punch-up script + generate a short hype MP3 in-browser.
 
+Notes: locked in the “10-second intro” target and persona/energy controls.
+
 ## 2026-05-20
 
 - Add `/api/hype` route (script generation + TTS).
