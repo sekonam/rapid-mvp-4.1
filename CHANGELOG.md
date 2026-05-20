@@ -16,6 +16,8 @@ Notes: locked in the “10-second intro” target and persona/energy controls.
 
 - Add `/api/hype` route (script generation + TTS).
 
+Notes: keep API key server-side; return base64 audio for simple client playback.
+
 ## 2026-05-21
 
 - Add settings model (duration, voice, manner, energy) and prompt shaping.
