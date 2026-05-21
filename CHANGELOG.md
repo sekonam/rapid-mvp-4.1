@@ -22,6 +22,8 @@ Notes: keep API key server-side; return base64 audio for simple client playback.
 
 - Add settings model (duration, voice, manner, energy) and prompt shaping.
 
+Notes: duration maps to word targets; energy also nudges TTS speed.
+
 ## 2026-05-22
 
 - Build core UI: text input, settings panel, generate action.
