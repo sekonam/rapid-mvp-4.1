@@ -28,6 +28,8 @@ Notes: duration maps to word targets; energy also nudges TTS speed.
 
 - Build core UI: text input, settings panel, generate action.
 
+Notes: prioritize “one-screen” flow from input → playback.
+
 ## 2026-05-23
 
 - Improve AI feel: empty/loading/error states and clearer feedback.
