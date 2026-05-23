@@ -34,6 +34,8 @@ Notes: prioritize “one-screen” flow from input → playback.
 
 - Improve AI feel: empty/loading/error states and clearer feedback.
 
+Notes: show step-based loading to make “thinking → speaking” feel natural.
+
 ## 2026-05-24
 
 - Add audio playback experience (auto-play, progress, download).
