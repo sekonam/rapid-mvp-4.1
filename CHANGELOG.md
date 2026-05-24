@@ -40,6 +40,8 @@ Notes: show step-based loading to make “thinking → speaking” feel natural.
 
 - Add audio playback experience (auto-play, progress, download).
 
+Notes: playback starts when ready; user can immediately re-generate a variant.
+
 ## 2026-05-25
 
 - Polish styling/typography and tighten copy.
