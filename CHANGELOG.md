@@ -46,6 +46,8 @@ Notes: playback starts when ready; user can immediately re-generate a variant.
 
 - Polish styling/typography and tighten copy.
 
+Notes: lean into “studio” feel with bold gradients and readable states.
+
 ## 2026-05-26
 
 - Document local run + Vercel deploy steps (single env var).
