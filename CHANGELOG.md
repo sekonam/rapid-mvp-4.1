@@ -52,6 +52,8 @@ Notes: lean into “studio” feel with bold gradients and readable states.
 
 - Document local run + Vercel deploy steps (single env var).
 
+Notes: keep setup “one env var + npm run dev” simple for reviewers.
+
 ## 2026-05-27
 
 - Final pass: build check and cleanup.
