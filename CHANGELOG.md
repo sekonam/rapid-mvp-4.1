@@ -58,3 +58,5 @@ Notes: keep setup “one env var + npm run dev” simple for reviewers.
 
 - Final pass: build check and cleanup.
 
+Notes: verified production build; ready to deploy on Vercel.
+
